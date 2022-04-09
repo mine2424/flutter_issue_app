@@ -1,3 +1,4 @@
-./tailwind.css
+tailwind.css
 target
 dist
+node_modules
