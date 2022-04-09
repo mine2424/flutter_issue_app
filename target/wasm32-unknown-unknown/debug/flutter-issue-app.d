@@ -1,0 +1,1 @@
+/Users/mine/development/flutter-issue-app/target/wasm32-unknown-unknown/debug/flutter-issue-app.wasm: /Users/mine/development/flutter-issue-app/src/app.rs /Users/mine/development/flutter-issue-app/src/main.rs

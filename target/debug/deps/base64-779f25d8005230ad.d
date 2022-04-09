@@ -1,0 +1,14 @@
+/Users/mine/development/flutter-issue-app/target/debug/deps/base64-779f25d8005230ad.rmeta: /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/Users/mine/development/flutter-issue-app/target/debug/deps/base64-779f25d8005230ad.d: /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs:
+/Users/mine/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs:
